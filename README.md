@@ -1,4 +1,4 @@
-Simple Todo Application that shows how to migrate from CoreData stack to modern SwiftData. The two persistence API can also be used in unison, once migration to either stack is selected one may then use HistoryTracking instead of a callback using combine.
+Simple MVVM Clean Todo Application that shows how to migrate from CoreData stack to modern SwiftData. The two persistence API can also be used in unison, once migration to either stack is selected one may then use HistoryTracking instead of a callback using combine.
 
 
 <p float="left">
